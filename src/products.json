@@ -1,4 +1,22 @@
 [
-  { "id": 1, "name": "Wireless Headphones", "price": 79.99, "tags": ["electronics", "audio"], "image": "https://placehold.co/300x200" },
-  { "id": 2, "name": "Running Shoes", "price": 54.99, "tags": ["sports", "footwear"], "image": "https://placehold.co/300x200" }
+  { "id": 1, "name": "Wireless Headphones", "price": 79.99, "tags": ["electronics", "audio"], "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=200&fit=crop" },
+  { "id": 2, "name": "Running Shoes", "price": 54.99, "tags": ["sports", "footwear"], "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=300&h=200&fit=crop" },
+  { "id": 3, "name": "Coffee Maker", "price": 44.99, "tags": ["kitchen", "appliances"], "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=300&h=200&fit=crop" },
+  { "id": 4, "name": "Yoga Mat", "price": 24.99, "tags": ["sports", "fitness"], "image": "https://images.unsplash.com/photo-1601925228008-35e4f7a67e3e?w=300&h=200&fit=crop" },
+  { "id": 5, "name": "Desk Lamp", "price": 34.99, "tags": ["home", "electronics"], "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=300&h=200&fit=crop" },
+  { "id": 6, "name": "Backpack", "price": 49.99, "tags": ["travel", "accessories"], "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=300&h=200&fit=crop" },
+  { "id": 7, "name": "Water Bottle", "price": 19.99, "tags": ["sports", "kitchen"], "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=300&h=200&fit=crop" },
+  { "id": 8, "name": "Bluetooth Speaker", "price": 59.99, "tags": ["electronics", "audio"], "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=300&h=200&fit=crop" },
+  { "id": 9, "name": "Sunglasses", "price": 29.99, "tags": ["accessories", "fashion"], "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=300&h=200&fit=crop" },
+  { "id": 10, "name": "Notebook Set", "price": 14.99, "tags": ["stationery", "home"], "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=300&h=200&fit=crop" },
+  { "id": 11, "name": "Air Purifier", "price": 89.99, "tags": ["home", "appliances"], "image": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=300&h=200&fit=crop" },
+  { "id": 12, "name": "Resistance Bands", "price": 12.99, "tags": ["sports", "fitness"], "image": "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=300&h=200&fit=crop" },
+  { "id": 13, "name": "Camping Lantern", "price": 27.99, "tags": ["travel", "sports"], "image": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=300&h=200&fit=crop" },
+  { "id": 14, "name": "Ceramic Mug", "price": 9.99, "tags": ["kitchen", "home"], "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=300&h=200&fit=crop" },
+  { "id": 15, "name": "Portable Charger", "price": 39.99, "tags": ["electronics", "travel"], "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=300&h=200&fit=crop" },
+  { "id": 16, "name": "Leather Wallet", "price": 22.99, "tags": ["accessories", "fashion"], "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=300&h=200&fit=crop" },
+  { "id": 17, "name": "Foam Roller", "price": 17.99, "tags": ["sports", "fitness"], "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=300&h=200&fit=crop" },
+  { "id": 18, "name": "Instant Camera", "price": 74.99, "tags": ["electronics", "accessories"], "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=300&h=200&fit=crop" },
+  { "id": 19, "name": "Kitchen Scale", "price": 16.99, "tags": ["kitchen", "appliances"], "image": "https://images.unsplash.com/photo-1611735341450-74d61e660ad2?w=300&h=200&fit=crop" },
+  { "id": 20, "name": "Travel Pillow", "price": 21.99, "tags": ["travel", "accessories"], "image": "https://images.unsplash.com/photo-1520338801623-daee7e4b5c88?w=300&h=200&fit=crop" }
 ]
