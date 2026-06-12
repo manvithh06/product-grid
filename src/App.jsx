@@ -2,6 +2,7 @@ import { useState } from "react";
 import products from "./products.json";
 import Toolbar from "./components/Toolbar";
 import Grid from "./components/Grid";
+import './App.css'
 
 const allTags = ["All", ...new Set(products.flatMap(p => p.tags))];
 
