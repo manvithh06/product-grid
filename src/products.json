@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Wireless Headphones", "price": 79.99, "tags": ["electronics", "audio"], "image": "https://placehold.co/300x200" },
+  { "id": 2, "name": "Running Shoes", "price": 54.99, "tags": ["sports", "footwear"], "image": "https://placehold.co/300x200" }
+]
