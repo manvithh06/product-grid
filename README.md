@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Interactive Product Card Grid
 
 ### Setup
